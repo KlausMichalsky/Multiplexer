@@ -4,7 +4,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -48,18 +48,18 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040",
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\libraries\\Wire\\src",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\sketch\\AS5600--I2C_angle_Multiplexer.ino.cpp",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\sketch\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\sketch\\AS5600--I2C_angle_Multiplexer.ino.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\sketch\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino.cpp.o"
   ],
-  "file": "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\sketch\\AS5600--I2C_angle_Multiplexer.ino.cpp"
+  "file": "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\sketch\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino.cpp"
  },
  {
   "directory": "C:\\Users\\Benutzer1\\AppData\\Local\\Programs\\Microsoft VS Code",
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -105,7 +105,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\libraries\\Wire\\src",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\libraries\\Wire\\src\\Wire.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\libraries\\Wire\\Wire.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\libraries\\Wire\\Wire.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\libraries\\Wire\\src\\Wire.cpp"
  },
@@ -114,7 +114,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -159,7 +159,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\BluetoothDebug.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\BluetoothDebug.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\BluetoothDebug.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\BluetoothDebug.cpp"
  },
@@ -168,169 +168,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
-   "-c",
-   "-Werror=return-type",
-   "-Wno-psabi",
-   "-DUSBD_PID=0x0003",
-   "-DUSBD_VID=0x2e8a",
-   "-DUSBD_MAX_POWER_MA=500",
-   "-DUSB_MANUFACTURER=\"Waveshare\"",
-   "-DUSB_PRODUCT=\"RP2040 Zero\"",
-   "-DLWIP_IPV6=0",
-   "-DLWIP_IPV4=1",
-   "-DLWIP_IGMP=1",
-   "-DLWIP_CHECKSUM_CTRL_PER_NETIF=1",
-   "-DFILE_COPY_CONSTRUCTOR_SELECT=FILE_COPY_CONSTRUCTOR_PUBLIC",
-   "-DUSE_UTF8_LONG_NAMES=1",
-   "-DDISABLE_FS_H_WARNING=1",
-   "-DARDUINO_VARIANT=\"waveshare_rp2040_zero\"",
-   "-DPICO_FLASH_SIZE_BYTES=2097152",
-   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_def.txt",
-   "-march=armv6-m",
-   "-mcpu=cortex-m0plus",
-   "-mthumb",
-   "-ffunction-sections",
-   "-fdata-sections",
-   "-fno-exceptions",
-   "-MMD",
-   "-iprefixC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/",
-   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_inc.txt",
-   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/core_inc.txt",
-   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/include",
-   "-fno-rtti",
-   "-std=gnu++17",
-   "-g",
-   "-pipe",
-   "-DF_CPU=200000000L",
-   "-DARDUINO=10607",
-   "-DARDUINO_WAVESHARE_RP2040_ZERO",
-   "-DBOARD_NAME=\"WAVESHARE_RP2040_ZERO\"",
-   "-DARDUINO_ARCH_RP2040",
-   "-Os",
-   "-DWIFICC=CYW43_COUNTRY_WORLDWIDE",
-   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040",
-   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
-   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\Semihosting.cpp",
-   "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\Semihosting.cpp.o"
-  ],
-  "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\Semihosting.cpp"
- },
- {
-  "directory": "C:\\Users\\Benutzer1\\AppData\\Local\\Programs\\Microsoft VS Code",
-  "arguments": [
-   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
-   "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
-   "-c",
-   "-Werror=return-type",
-   "-Wno-psabi",
-   "-DUSBD_PID=0x0003",
-   "-DUSBD_VID=0x2e8a",
-   "-DUSBD_MAX_POWER_MA=500",
-   "-DUSB_MANUFACTURER=\"Waveshare\"",
-   "-DUSB_PRODUCT=\"RP2040 Zero\"",
-   "-DLWIP_IPV6=0",
-   "-DLWIP_IPV4=1",
-   "-DLWIP_IGMP=1",
-   "-DLWIP_CHECKSUM_CTRL_PER_NETIF=1",
-   "-DFILE_COPY_CONSTRUCTOR_SELECT=FILE_COPY_CONSTRUCTOR_PUBLIC",
-   "-DUSE_UTF8_LONG_NAMES=1",
-   "-DDISABLE_FS_H_WARNING=1",
-   "-DARDUINO_VARIANT=\"waveshare_rp2040_zero\"",
-   "-DPICO_FLASH_SIZE_BYTES=2097152",
-   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_def.txt",
-   "-march=armv6-m",
-   "-mcpu=cortex-m0plus",
-   "-mthumb",
-   "-ffunction-sections",
-   "-fdata-sections",
-   "-fno-exceptions",
-   "-MMD",
-   "-iprefixC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/",
-   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_inc.txt",
-   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/core_inc.txt",
-   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/include",
-   "-fno-rtti",
-   "-std=gnu++17",
-   "-g",
-   "-pipe",
-   "-DF_CPU=200000000L",
-   "-DARDUINO=10607",
-   "-DARDUINO_WAVESHARE_RP2040_ZERO",
-   "-DBOARD_NAME=\"WAVESHARE_RP2040_ZERO\"",
-   "-DARDUINO_ARCH_RP2040",
-   "-Os",
-   "-DWIFICC=CYW43_COUNTRY_WORLDWIDE",
-   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040",
-   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
-   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\Bootsel.cpp",
-   "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\Bootsel.cpp.o"
-  ],
-  "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\Bootsel.cpp"
- },
- {
-  "directory": "C:\\Users\\Benutzer1\\AppData\\Local\\Programs\\Microsoft VS Code",
-  "arguments": [
-   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
-   "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
-   "-c",
-   "-Werror=return-type",
-   "-Wno-psabi",
-   "-DUSBD_PID=0x0003",
-   "-DUSBD_VID=0x2e8a",
-   "-DUSBD_MAX_POWER_MA=500",
-   "-DUSB_MANUFACTURER=\"Waveshare\"",
-   "-DUSB_PRODUCT=\"RP2040 Zero\"",
-   "-DLWIP_IPV6=0",
-   "-DLWIP_IPV4=1",
-   "-DLWIP_IGMP=1",
-   "-DLWIP_CHECKSUM_CTRL_PER_NETIF=1",
-   "-DFILE_COPY_CONSTRUCTOR_SELECT=FILE_COPY_CONSTRUCTOR_PUBLIC",
-   "-DUSE_UTF8_LONG_NAMES=1",
-   "-DDISABLE_FS_H_WARNING=1",
-   "-DARDUINO_VARIANT=\"waveshare_rp2040_zero\"",
-   "-DPICO_FLASH_SIZE_BYTES=2097152",
-   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_def.txt",
-   "-march=armv6-m",
-   "-mcpu=cortex-m0plus",
-   "-mthumb",
-   "-ffunction-sections",
-   "-fdata-sections",
-   "-fno-exceptions",
-   "-MMD",
-   "-iprefixC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/",
-   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_inc.txt",
-   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/core_inc.txt",
-   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/include",
-   "-fno-rtti",
-   "-std=gnu++17",
-   "-g",
-   "-pipe",
-   "-DF_CPU=200000000L",
-   "-DARDUINO=10607",
-   "-DARDUINO_WAVESHARE_RP2040_ZERO",
-   "-DBOARD_NAME=\"WAVESHARE_RP2040_ZERO\"",
-   "-DARDUINO_ARCH_RP2040",
-   "-Os",
-   "-DWIFICC=CYW43_COUNTRY_WORLDWIDE",
-   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040",
-   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
-   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\CoreMutex.cpp",
-   "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\CoreMutex.cpp.o"
-  ],
-  "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\CoreMutex.cpp"
- },
- {
-  "directory": "C:\\Users\\Benutzer1\\AppData\\Local\\Programs\\Microsoft VS Code",
-  "arguments": [
-   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
-   "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -375,7 +213,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\FS.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\FS.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\FS.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\FS.cpp"
  },
@@ -384,7 +222,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -427,18 +265,18 @@
    "-DWIFICC=CYW43_COUNTRY_WORLDWIDE",
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040",
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
-   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\RP2040USB.cpp",
+   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\Semihosting.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\RP2040USB.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\Semihosting.cpp.o"
   ],
-  "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\RP2040USB.cpp"
+  "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\Semihosting.cpp"
  },
  {
   "directory": "C:\\Users\\Benutzer1\\AppData\\Local\\Programs\\Microsoft VS Code",
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -481,18 +319,18 @@
    "-DWIFICC=CYW43_COUNTRY_WORLDWIDE",
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040",
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
-   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\PIOProgram.cpp",
+   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\Bootsel.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\PIOProgram.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\Bootsel.cpp.o"
   ],
-  "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\PIOProgram.cpp"
+  "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\Bootsel.cpp"
  },
  {
   "directory": "C:\\Users\\Benutzer1\\AppData\\Local\\Programs\\Microsoft VS Code",
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -537,7 +375,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\RP2040Support.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\RP2040Support.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\RP2040Support.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\RP2040Support.cpp"
  },
@@ -546,7 +384,169 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
+   "-c",
+   "-Werror=return-type",
+   "-Wno-psabi",
+   "-DUSBD_PID=0x0003",
+   "-DUSBD_VID=0x2e8a",
+   "-DUSBD_MAX_POWER_MA=500",
+   "-DUSB_MANUFACTURER=\"Waveshare\"",
+   "-DUSB_PRODUCT=\"RP2040 Zero\"",
+   "-DLWIP_IPV6=0",
+   "-DLWIP_IPV4=1",
+   "-DLWIP_IGMP=1",
+   "-DLWIP_CHECKSUM_CTRL_PER_NETIF=1",
+   "-DFILE_COPY_CONSTRUCTOR_SELECT=FILE_COPY_CONSTRUCTOR_PUBLIC",
+   "-DUSE_UTF8_LONG_NAMES=1",
+   "-DDISABLE_FS_H_WARNING=1",
+   "-DARDUINO_VARIANT=\"waveshare_rp2040_zero\"",
+   "-DPICO_FLASH_SIZE_BYTES=2097152",
+   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_def.txt",
+   "-march=armv6-m",
+   "-mcpu=cortex-m0plus",
+   "-mthumb",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-exceptions",
+   "-MMD",
+   "-iprefixC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/",
+   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_inc.txt",
+   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/core_inc.txt",
+   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/include",
+   "-fno-rtti",
+   "-std=gnu++17",
+   "-g",
+   "-pipe",
+   "-DF_CPU=200000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_WAVESHARE_RP2040_ZERO",
+   "-DBOARD_NAME=\"WAVESHARE_RP2040_ZERO\"",
+   "-DARDUINO_ARCH_RP2040",
+   "-Os",
+   "-DWIFICC=CYW43_COUNTRY_WORLDWIDE",
+   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040",
+   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
+   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\RP2040USB.cpp",
+   "-o",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\RP2040USB.cpp.o"
+  ],
+  "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\RP2040USB.cpp"
+ },
+ {
+  "directory": "C:\\Users\\Benutzer1\\AppData\\Local\\Programs\\Microsoft VS Code",
+  "arguments": [
+   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
+   "-I",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
+   "-c",
+   "-Werror=return-type",
+   "-Wno-psabi",
+   "-DUSBD_PID=0x0003",
+   "-DUSBD_VID=0x2e8a",
+   "-DUSBD_MAX_POWER_MA=500",
+   "-DUSB_MANUFACTURER=\"Waveshare\"",
+   "-DUSB_PRODUCT=\"RP2040 Zero\"",
+   "-DLWIP_IPV6=0",
+   "-DLWIP_IPV4=1",
+   "-DLWIP_IGMP=1",
+   "-DLWIP_CHECKSUM_CTRL_PER_NETIF=1",
+   "-DFILE_COPY_CONSTRUCTOR_SELECT=FILE_COPY_CONSTRUCTOR_PUBLIC",
+   "-DUSE_UTF8_LONG_NAMES=1",
+   "-DDISABLE_FS_H_WARNING=1",
+   "-DARDUINO_VARIANT=\"waveshare_rp2040_zero\"",
+   "-DPICO_FLASH_SIZE_BYTES=2097152",
+   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_def.txt",
+   "-march=armv6-m",
+   "-mcpu=cortex-m0plus",
+   "-mthumb",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-exceptions",
+   "-MMD",
+   "-iprefixC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/",
+   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_inc.txt",
+   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/core_inc.txt",
+   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/include",
+   "-fno-rtti",
+   "-std=gnu++17",
+   "-g",
+   "-pipe",
+   "-DF_CPU=200000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_WAVESHARE_RP2040_ZERO",
+   "-DBOARD_NAME=\"WAVESHARE_RP2040_ZERO\"",
+   "-DARDUINO_ARCH_RP2040",
+   "-Os",
+   "-DWIFICC=CYW43_COUNTRY_WORLDWIDE",
+   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040",
+   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
+   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\CoreMutex.cpp",
+   "-o",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\CoreMutex.cpp.o"
+  ],
+  "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\CoreMutex.cpp"
+ },
+ {
+  "directory": "C:\\Users\\Benutzer1\\AppData\\Local\\Programs\\Microsoft VS Code",
+  "arguments": [
+   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
+   "-I",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
+   "-c",
+   "-Werror=return-type",
+   "-Wno-psabi",
+   "-DUSBD_PID=0x0003",
+   "-DUSBD_VID=0x2e8a",
+   "-DUSBD_MAX_POWER_MA=500",
+   "-DUSB_MANUFACTURER=\"Waveshare\"",
+   "-DUSB_PRODUCT=\"RP2040 Zero\"",
+   "-DLWIP_IPV6=0",
+   "-DLWIP_IPV4=1",
+   "-DLWIP_IGMP=1",
+   "-DLWIP_CHECKSUM_CTRL_PER_NETIF=1",
+   "-DFILE_COPY_CONSTRUCTOR_SELECT=FILE_COPY_CONSTRUCTOR_PUBLIC",
+   "-DUSE_UTF8_LONG_NAMES=1",
+   "-DDISABLE_FS_H_WARNING=1",
+   "-DARDUINO_VARIANT=\"waveshare_rp2040_zero\"",
+   "-DPICO_FLASH_SIZE_BYTES=2097152",
+   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_def.txt",
+   "-march=armv6-m",
+   "-mcpu=cortex-m0plus",
+   "-mthumb",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-exceptions",
+   "-MMD",
+   "-iprefixC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/",
+   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_inc.txt",
+   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/core_inc.txt",
+   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/include",
+   "-fno-rtti",
+   "-std=gnu++17",
+   "-g",
+   "-pipe",
+   "-DF_CPU=200000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_WAVESHARE_RP2040_ZERO",
+   "-DBOARD_NAME=\"WAVESHARE_RP2040_ZERO\"",
+   "-DARDUINO_ARCH_RP2040",
+   "-Os",
+   "-DWIFICC=CYW43_COUNTRY_WORLDWIDE",
+   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040",
+   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
+   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\PIOProgram.cpp",
+   "-o",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\PIOProgram.cpp.o"
+  ],
+  "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\PIOProgram.cpp"
+ },
+ {
+  "directory": "C:\\Users\\Benutzer1\\AppData\\Local\\Programs\\Microsoft VS Code",
+  "arguments": [
+   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
+   "-I",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -591,7 +591,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\SerialPIO.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\SerialPIO.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\SerialPIO.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\SerialPIO.cpp"
  },
@@ -600,7 +600,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -645,7 +645,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\SerialUART.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\SerialUART.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\SerialUART.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\SerialUART.cpp"
  },
@@ -654,7 +654,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -699,7 +699,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\SerialUSB.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\SerialUSB.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\SerialUSB.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\SerialUSB.cpp"
  },
@@ -708,7 +708,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -753,7 +753,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\StackThunk.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\StackThunk.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\StackThunk.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\StackThunk.cpp"
  },
@@ -762,7 +762,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -807,7 +807,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\Tone.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\Tone.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\Tone.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\Tone.cpp"
  },
@@ -816,7 +816,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -861,7 +861,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\WMath.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\WMath.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\WMath.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\WMath.cpp"
  },
@@ -870,7 +870,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -915,7 +915,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\_freertos.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\_freertos.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\_freertos.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\_freertos.cpp"
  },
@@ -924,7 +924,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -969,7 +969,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\api\\Common.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\api\\Common.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\api\\Common.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\api\\Common.cpp"
  },
@@ -978,7 +978,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -1023,7 +1023,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\api\\IPAddress.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\api\\IPAddress.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\api\\IPAddress.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\api\\IPAddress.cpp"
  },
@@ -1032,7 +1032,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -1077,7 +1077,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\api\\PluggableUSB.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\api\\PluggableUSB.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\api\\PluggableUSB.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\api\\PluggableUSB.cpp"
  },
@@ -1086,7 +1086,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -1131,7 +1131,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\api\\Print.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\api\\Print.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\api\\Print.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\api\\Print.cpp"
  },
@@ -1140,7 +1140,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -1185,7 +1185,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\api\\Stream.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\api\\Stream.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\api\\Stream.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\api\\Stream.cpp"
  },
@@ -1194,7 +1194,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -1239,7 +1239,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\api\\String.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\api\\String.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\api\\String.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\api\\String.cpp"
  },
@@ -1248,7 +1248,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -1293,7 +1293,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\cyw43_wrappers.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\cyw43_wrappers.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\cyw43_wrappers.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\cyw43_wrappers.cpp"
  },
@@ -1302,7 +1302,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -1347,7 +1347,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\delay.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\delay.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\delay.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\delay.cpp"
  },
@@ -1397,7 +1397,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\gprof_gmon.c",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\gprof_gmon.c.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\gprof_gmon.c.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\gprof_gmon.c"
  },
@@ -1444,7 +1444,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\gprof_shim.S",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\gprof_shim.S.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\gprof_shim.S.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\gprof_shim.S"
  },
@@ -1453,61 +1453,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
-   "-c",
-   "-Werror=return-type",
-   "-Wno-psabi",
-   "-DUSBD_PID=0x0003",
-   "-DUSBD_VID=0x2e8a",
-   "-DUSBD_MAX_POWER_MA=500",
-   "-DUSB_MANUFACTURER=\"Waveshare\"",
-   "-DUSB_PRODUCT=\"RP2040 Zero\"",
-   "-DLWIP_IPV6=0",
-   "-DLWIP_IPV4=1",
-   "-DLWIP_IGMP=1",
-   "-DLWIP_CHECKSUM_CTRL_PER_NETIF=1",
-   "-DFILE_COPY_CONSTRUCTOR_SELECT=FILE_COPY_CONSTRUCTOR_PUBLIC",
-   "-DUSE_UTF8_LONG_NAMES=1",
-   "-DDISABLE_FS_H_WARNING=1",
-   "-DARDUINO_VARIANT=\"waveshare_rp2040_zero\"",
-   "-DPICO_FLASH_SIZE_BYTES=2097152",
-   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_def.txt",
-   "-march=armv6-m",
-   "-mcpu=cortex-m0plus",
-   "-mthumb",
-   "-ffunction-sections",
-   "-fdata-sections",
-   "-fno-exceptions",
-   "-MMD",
-   "-iprefixC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/",
-   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_inc.txt",
-   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/core_inc.txt",
-   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/include",
-   "-fno-rtti",
-   "-std=gnu++17",
-   "-g",
-   "-pipe",
-   "-DF_CPU=200000000L",
-   "-DARDUINO=10607",
-   "-DARDUINO_WAVESHARE_RP2040_ZERO",
-   "-DBOARD_NAME=\"WAVESHARE_RP2040_ZERO\"",
-   "-DARDUINO_ARCH_RP2040",
-   "-Os",
-   "-DWIFICC=CYW43_COUNTRY_WORLDWIDE",
-   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040",
-   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
-   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\libb64\\cencode.cpp",
-   "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\libb64\\cencode.cpp.o"
-  ],
-  "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\libb64\\cencode.cpp"
- },
- {
-  "directory": "C:\\Users\\Benutzer1\\AppData\\Local\\Programs\\Microsoft VS Code",
-  "arguments": [
-   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
-   "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -1552,7 +1498,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\libb64\\cdecode.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\libb64\\cdecode.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\libb64\\cdecode.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\libb64\\cdecode.cpp"
  },
@@ -1561,7 +1507,61 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
+   "-c",
+   "-Werror=return-type",
+   "-Wno-psabi",
+   "-DUSBD_PID=0x0003",
+   "-DUSBD_VID=0x2e8a",
+   "-DUSBD_MAX_POWER_MA=500",
+   "-DUSB_MANUFACTURER=\"Waveshare\"",
+   "-DUSB_PRODUCT=\"RP2040 Zero\"",
+   "-DLWIP_IPV6=0",
+   "-DLWIP_IPV4=1",
+   "-DLWIP_IGMP=1",
+   "-DLWIP_CHECKSUM_CTRL_PER_NETIF=1",
+   "-DFILE_COPY_CONSTRUCTOR_SELECT=FILE_COPY_CONSTRUCTOR_PUBLIC",
+   "-DUSE_UTF8_LONG_NAMES=1",
+   "-DDISABLE_FS_H_WARNING=1",
+   "-DARDUINO_VARIANT=\"waveshare_rp2040_zero\"",
+   "-DPICO_FLASH_SIZE_BYTES=2097152",
+   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_def.txt",
+   "-march=armv6-m",
+   "-mcpu=cortex-m0plus",
+   "-mthumb",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-exceptions",
+   "-MMD",
+   "-iprefixC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/",
+   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_inc.txt",
+   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/core_inc.txt",
+   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/include",
+   "-fno-rtti",
+   "-std=gnu++17",
+   "-g",
+   "-pipe",
+   "-DF_CPU=200000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_WAVESHARE_RP2040_ZERO",
+   "-DBOARD_NAME=\"WAVESHARE_RP2040_ZERO\"",
+   "-DARDUINO_ARCH_RP2040",
+   "-Os",
+   "-DWIFICC=CYW43_COUNTRY_WORLDWIDE",
+   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040",
+   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
+   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\libb64\\cencode.cpp",
+   "-o",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\libb64\\cencode.cpp.o"
+  ],
+  "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\libb64\\cencode.cpp"
+ },
+ {
+  "directory": "C:\\Users\\Benutzer1\\AppData\\Local\\Programs\\Microsoft VS Code",
+  "arguments": [
+   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
+   "-I",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -1606,7 +1606,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\lock.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\lock.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\lock.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\lock.cpp"
  },
@@ -1615,7 +1615,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -1660,7 +1660,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\lwip_wrap.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\lwip_wrap.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\lwip_wrap.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\lwip_wrap.cpp"
  },
@@ -1669,7 +1669,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -1714,7 +1714,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\main.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\main.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\main.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\main.cpp"
  },
@@ -1723,7 +1723,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -1768,7 +1768,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\malloc-lock.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\malloc-lock.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\malloc-lock.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\malloc-lock.cpp"
  },
@@ -1777,7 +1777,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -1822,7 +1822,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\posix.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\posix.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\posix.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\posix.cpp"
  },
@@ -1831,7 +1831,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -1876,7 +1876,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\psram.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\psram.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\psram.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\psram.cpp"
  },
@@ -1923,7 +1923,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\rp2350-memcpy.S",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\rp2350-memcpy.S.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\rp2350-memcpy.S.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\rp2350-memcpy.S"
  },
@@ -1932,7 +1932,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -1977,7 +1977,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\sdkoverride\\btstack_flash_bank.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\sdkoverride\\btstack_flash_bank.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\sdkoverride\\btstack_flash_bank.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\sdkoverride\\btstack_flash_bank.cpp"
  },
@@ -1986,7 +1986,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -2031,7 +2031,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\sdkoverride\\inet_chksum.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\sdkoverride\\inet_chksum.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\sdkoverride\\inet_chksum.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\sdkoverride\\inet_chksum.cpp"
  },
@@ -2081,7 +2081,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\sdkoverride\\newlib_interface.c",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\sdkoverride\\newlib_interface.c.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\sdkoverride\\newlib_interface.c.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\sdkoverride\\newlib_interface.c"
  },
@@ -2131,7 +2131,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\sdkoverride\\pico_bootsel_via_double_reset.c",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\sdkoverride\\pico_bootsel_via_double_reset.c.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\sdkoverride\\pico_bootsel_via_double_reset.c.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\sdkoverride\\pico_bootsel_via_double_reset.c"
  },
@@ -2140,7 +2140,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -2185,7 +2185,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\stdlib_noniso.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\stdlib_noniso.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\stdlib_noniso.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\stdlib_noniso.cpp"
  },
@@ -2194,7 +2194,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -2239,7 +2239,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\wiring_analog.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\wiring_analog.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\wiring_analog.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\wiring_analog.cpp"
  },
@@ -2248,7 +2248,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -2293,7 +2293,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\wiring_digital.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\wiring_digital.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\wiring_digital.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\wiring_digital.cpp"
  },
@@ -2302,7 +2302,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -2347,7 +2347,7 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\wiring_private.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\wiring_private.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\wiring_private.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\wiring_private.cpp"
  },
@@ -2356,61 +2356,7 @@
   "arguments": [
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
    "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
-   "-c",
-   "-Werror=return-type",
-   "-Wno-psabi",
-   "-DUSBD_PID=0x0003",
-   "-DUSBD_VID=0x2e8a",
-   "-DUSBD_MAX_POWER_MA=500",
-   "-DUSB_MANUFACTURER=\"Waveshare\"",
-   "-DUSB_PRODUCT=\"RP2040 Zero\"",
-   "-DLWIP_IPV6=0",
-   "-DLWIP_IPV4=1",
-   "-DLWIP_IGMP=1",
-   "-DLWIP_CHECKSUM_CTRL_PER_NETIF=1",
-   "-DFILE_COPY_CONSTRUCTOR_SELECT=FILE_COPY_CONSTRUCTOR_PUBLIC",
-   "-DUSE_UTF8_LONG_NAMES=1",
-   "-DDISABLE_FS_H_WARNING=1",
-   "-DARDUINO_VARIANT=\"waveshare_rp2040_zero\"",
-   "-DPICO_FLASH_SIZE_BYTES=2097152",
-   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_def.txt",
-   "-march=armv6-m",
-   "-mcpu=cortex-m0plus",
-   "-mthumb",
-   "-ffunction-sections",
-   "-fdata-sections",
-   "-fno-exceptions",
-   "-MMD",
-   "-iprefixC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/",
-   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_inc.txt",
-   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/core_inc.txt",
-   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/include",
-   "-fno-rtti",
-   "-std=gnu++17",
-   "-g",
-   "-pipe",
-   "-DF_CPU=200000000L",
-   "-DARDUINO=10607",
-   "-DARDUINO_WAVESHARE_RP2040_ZERO",
-   "-DBOARD_NAME=\"WAVESHARE_RP2040_ZERO\"",
-   "-DARDUINO_ARCH_RP2040",
-   "-Os",
-   "-DWIFICC=CYW43_COUNTRY_WORLDWIDE",
-   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040",
-   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
-   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\wiring_shift.cpp",
-   "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\wiring_shift.cpp.o"
-  ],
-  "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\wiring_shift.cpp"
- },
- {
-  "directory": "C:\\Users\\Benutzer1\\AppData\\Local\\Programs\\Microsoft VS Code",
-  "arguments": [
-   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
-   "-I",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
    "-c",
    "-Werror=return-type",
    "-Wno-psabi",
@@ -2455,8 +2401,62 @@
    "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
    "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\wiring_pulse.cpp",
    "-o",
-   "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\core\\wiring_pulse.cpp.o"
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\wiring_pulse.cpp.o"
   ],
   "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\wiring_pulse.cpp"
+ },
+ {
+  "directory": "C:\\Users\\Benutzer1\\AppData\\Local\\Programs\\Microsoft VS Code",
+  "arguments": [
+   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
+   "-I",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
+   "-c",
+   "-Werror=return-type",
+   "-Wno-psabi",
+   "-DUSBD_PID=0x0003",
+   "-DUSBD_VID=0x2e8a",
+   "-DUSBD_MAX_POWER_MA=500",
+   "-DUSB_MANUFACTURER=\"Waveshare\"",
+   "-DUSB_PRODUCT=\"RP2040 Zero\"",
+   "-DLWIP_IPV6=0",
+   "-DLWIP_IPV4=1",
+   "-DLWIP_IGMP=1",
+   "-DLWIP_CHECKSUM_CTRL_PER_NETIF=1",
+   "-DFILE_COPY_CONSTRUCTOR_SELECT=FILE_COPY_CONSTRUCTOR_PUBLIC",
+   "-DUSE_UTF8_LONG_NAMES=1",
+   "-DDISABLE_FS_H_WARNING=1",
+   "-DARDUINO_VARIANT=\"waveshare_rp2040_zero\"",
+   "-DPICO_FLASH_SIZE_BYTES=2097152",
+   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_def.txt",
+   "-march=armv6-m",
+   "-mcpu=cortex-m0plus",
+   "-mthumb",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-exceptions",
+   "-MMD",
+   "-iprefixC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/",
+   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/rp2040/platform_inc.txt",
+   "@C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/lib/core_inc.txt",
+   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2/include",
+   "-fno-rtti",
+   "-std=gnu++17",
+   "-g",
+   "-pipe",
+   "-DF_CPU=200000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_WAVESHARE_RP2040_ZERO",
+   "-DBOARD_NAME=\"WAVESHARE_RP2040_ZERO\"",
+   "-DARDUINO_ARCH_RP2040",
+   "-Os",
+   "-DWIFICC=CYW43_COUNTRY_WORLDWIDE",
+   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040",
+   "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
+   "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\wiring_shift.cpp",
+   "-o",
+   "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\core\\wiring_shift.cpp.o"
+  ],
+  "file": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040\\wiring_shift.cpp"
  }
 ]

@@ -7,15 +7,15 @@
   },
   {
     "compile": {
-      "source_path": "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\sketch\\AS5600--I2C_angle_Multiplexer.ino.cpp",
-      "object_path": "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\sketch\\AS5600--I2C_angle_Multiplexer.ino.cpp.o",
-      "depfile_path": "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\sketch\\AS5600--I2C_angle_Multiplexer.ino.cpp.d"
+      "source_path": "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\sketch\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino.cpp",
+      "object_path": "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\sketch\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino.cpp.o",
+      "depfile_path": "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\sketch\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino.cpp.d"
     },
     "compile_task": {
       "args": [
         "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
         "-I",
-        "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+        "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
         "-c",
         "-Werror=return-type",
         "-Wno-psabi",
@@ -62,7 +62,7 @@
         "-DWIFICC=CYW43_COUNTRY_WORLDWIDE",
         "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040",
         "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
-        "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\sketch\\AS5600--I2C_angle_Multiplexer.ino.cpp",
+        "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\sketch\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino.cpp",
         "-o",
         "nul"
       ]
@@ -76,15 +76,15 @@
   },
   {
     "compile": {
-      "source_path": "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\sketch\\AS5600--I2C_angle_Multiplexer.ino.cpp",
-      "object_path": "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\sketch\\AS5600--I2C_angle_Multiplexer.ino.cpp.o",
-      "depfile_path": "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\sketch\\AS5600--I2C_angle_Multiplexer.ino.cpp.d"
+      "source_path": "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\sketch\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino.cpp",
+      "object_path": "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\sketch\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino.cpp.o",
+      "depfile_path": "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\sketch\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino.cpp.d"
     },
     "compile_task": {
       "args": [
         "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
         "-I",
-        "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+        "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
         "-c",
         "-Werror=return-type",
         "-Wno-psabi",
@@ -132,7 +132,7 @@
         "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\cores\\rp2040",
         "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\variants\\waveshare_rp2040_zero",
         "-IC:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\libraries\\Wire\\src",
-        "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\sketch\\AS5600--I2C_angle_Multiplexer.ino.cpp",
+        "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\sketch\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino.cpp",
         "-o",
         "nul"
       ]
@@ -144,14 +144,14 @@
   {
     "compile": {
       "source_path": "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.5.2\\libraries\\Wire\\src\\Wire.cpp",
-      "object_path": "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\libraries\\Wire\\Wire.cpp.o",
-      "depfile_path": "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build\\libraries\\Wire\\Wire.cpp.d"
+      "object_path": "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\libraries\\Wire\\Wire.cpp.o",
+      "depfile_path": "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build\\libraries\\Wire\\Wire.cpp.d"
     },
     "compile_task": {
       "args": [
         "C:\\Users\\Benutzer1\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\4.0.1-8ec9d6f/bin/arm-none-eabi-g++",
         "-I",
-        "c:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\build/core",
+        "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\build/core",
         "-c",
         "-Werror=return-type",
         "-Wno-psabi",

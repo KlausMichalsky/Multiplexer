@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#line 1 "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\AS5600--I2C_angle_Multiplexer.ino"
+#line 1 "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino"
 // ========================================================================
 //     🔸 A S 5 6 0 0  -  I 2 C  A N G L E   M U L T I P L E X E R 🔸
 // ========================================================================
@@ -29,15 +29,15 @@
 //------------------------------------------------
 // Seleccionar canal del TCA9548A
 //------------------------------------------------
-#line 30 "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\AS5600--I2C_angle_Multiplexer.ino"
+#line 30 "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino"
 void tcaSelect(uint8_t channel);
-#line 43 "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\AS5600--I2C_angle_Multiplexer.ino"
+#line 43 "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino"
 uint16_t readAS5600Angle();
-#line 60 "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\AS5600--I2C_angle_Multiplexer.ino"
+#line 60 "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino"
 void setup();
-#line 72 "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\AS5600--I2C_angle_Multiplexer.ino"
+#line 72 "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino"
 void loop();
-#line 30 "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\AS5600--I2C_angle\\AS5600--I2C_angle_Multiplexer\\AS5600--I2C_angle_Multiplexer.ino"
+#line 30 "C:\\Users\\Benutzer1\\Documents\\# Github repositories\\MULTIPLEXER\\MULTIPLEXER--AS5600_I2C_angle_2xSensors\\MULTIPLEXER--AS5600_I2C_angle_2xSensors.ino"
 void tcaSelect(uint8_t channel)
 {
     if (channel > 7)
