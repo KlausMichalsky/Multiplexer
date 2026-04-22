@@ -1,7 +1,7 @@
 // ========================================================================
 //     🔸 A S 5 6 0 0  -  I 2 C  A N G L E   M U L T I P L E X E R 🔸
 // ========================================================================
-//  Archivo    : AS5600--I2C_angle_Multiplexer.ino
+//  Archivo    : Multiplexer_AS5600-I2C-Angle-2xSensors.ino
 //  Autor      : Klaus Michalsky
 //  Fecha      : Mar-2026
 //

@@ -1,7 +1,7 @@
 // ========================================================================
 //     🔸  M U L T I P L E X E R  -  I 2 C   S C A N N E R 🔸
 // ========================================================================
-//  Archivo    : Multiplexer--I2C_Scanner.ino
+//  Archivo    : Multiplexer_I2C-Scanner.ino
 //  Autor      : Klaus Michalsky
 //  Fecha      : Mar-2026
 //
